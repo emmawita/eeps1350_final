@@ -1,0 +1,39 @@
+Document provides links to all the data used in both parts of the analysis. 
+
+###
+
+- All ACS variables were collected via the census library and API in Python. (5 year, 2018-2022)
+
+- Rhode Island Block Groups, Geometry (2022): U.S. Census Tiger Lines, https://www.census.gov/cgi-bin/geo/shapefiles/index.php
+
+- Diabetes (5 year, 2018-2022): Center for Disease Control (CDC), https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#
+
+- Daymet (June 1 - Aug 31, 2018-2022): NASA, https://daymet.ornl.gov/ | https://www.climateengine.org/
+
+- Landcover (2022): National Land Cover Database (NLCD), https://www.mrlc.gov/data?f%5B0%5D=category%3ALand%20Cover
+
+- Tree Canopy Cover (2022): National Land Cover Database (NLCD), https://www.mrlc.gov/data?f%5B0%5D=category%3ANLCD%20Tree%20Canopy%20Cover
+
+- Impervious Surfaces Percentages (2022): National Land Cover Database (NLCD), https://www.mrlc.gov/data?f%5B0%5D=category%3AFractional%20Impervious%20Surface
+
+- Enhanced Vegetation Index (EVI) (June 1 - Aug 31, 2018-2022): NASA - MOD13A2 V6 (MODIS, 250), https://modis.gsfc.nasa.gov/ | https://www.climateengine.org/
+
+- Station Locations: NOAA & NEST, https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND | https://dashboard.nest.brown.edu/
+
+- Rhode Island Boundary: https://www.rigis.org/maps/d9afcd68bb51419bb5b70e99b22514ea
+
+- Digitial Elevation Model (DEM, 1/3 arc second): USGS, https://apps.nationalmap.gov/downloader/
+
+- Roads, Rhode Island: https://www.rigis.org/maps/1654c41c29f8468ba8d85f329f484f4b
+
+- Buildings, Rhode Island: https://www.rigis.org/maps/58445d31693b4f80846c6f0e837c2859
+
+- Providence, RI Boundary: https://providence-gis-hub-pvdgis.hub.arcgis.com/datasets/ab5a5cc99c4849499d542e89f9e1186f
+
+- Providence Tree Canopy Cover: https://providence-gis-hub-pvdgis.hub.arcgis.com/datasets/734f9dd0d17f4ee68d80f5ebbbc8f857
+
+- Providence Sidewalks: https://providence-gis-hub-pvdgis.hub.arcgis.com/datasets/67c424a0abef4f72bd90df9750c2259b
+
+- Providence Roads: https://providence-gis-hub-pvdgis.hub.arcgis.com/datasets/8c101a6fca0c4104b9b08499725c6625 
+
+- Providence Buildings: https://providence-gis-hub-pvdgis.hub.arcgis.com/datasets/d66b8deed2614d54b18906ba1f532030
